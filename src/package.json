@@ -1,0 +1,26 @@
+{
+  "name": "nhatro24",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/huyphanvan/nhatro24/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.6.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huyphanvan/nhatro24.git"
+  },
+  "author": "huypv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huyphanvan/nhatro24/issues"
+  },
+  "homepage": "https://github.com/huyphanvan/nhatro24#readme",
+  "keywords": [
+    "nhatro"
+  ]
+}
